@@ -1,6 +1,6 @@
 <img src="https://avatars1.githubusercontent.com/u/48654896?s=48&v=4">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Volodymyr.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
