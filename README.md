@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Volodymyrquo/Volodymyrquo/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://avatars1.githubusercontent.com/u/48654896?s=48&v=4">
 
 <h2> Hey there! I'm Volodymyr.</h2>
 
