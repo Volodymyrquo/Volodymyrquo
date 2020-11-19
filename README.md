@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://www.dachaland.in.ua/"><img alt="Website" src="https://img.shields.io/badge/Website-www.dachaland.in.ua-blue?style=flat-squere&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/volodymyrr-basok/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Volodymyr%20Basok-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/volodymyr-basok/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Volodymyr%20Basok-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:volodymyr.basok@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-volodymyr.basok@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
